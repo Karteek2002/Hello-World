@@ -41,6 +41,11 @@ public class Test2 extends Test1{
 		
 		System.out.println("this is Koti");
 	}
+	@Test
+	public void Koti1(){
+		
+		System.out.println("this is Koti");
+	}
 	@BeforeTest
 	public void Subash(){
 		
