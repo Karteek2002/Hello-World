@@ -18,7 +18,7 @@ public class Test3 {
   		System.out.println("D");
   	}
   @Test (groups="Group2")
-  	public void C()
+  	public void Cccccc()
   	{
   		System.out.println("C");
   	}
