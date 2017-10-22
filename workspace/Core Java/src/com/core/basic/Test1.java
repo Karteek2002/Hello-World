@@ -24,5 +24,10 @@ public class Test1 {
 		System.out.println(value);
 	}
 	
+	public static void Aa(int value)
+	{
+		System.out.println(value);
+	}
+	
 	
 }
